@@ -7,9 +7,7 @@ import 'package:movie_api/screens/home_screen.dart';
 import 'package:movie_api/screens/search_film_screen.dart';
 import 'package:movie_api/widgets/home/detail_screen.dart';
 import 'package:provider/provider.dart';
-import 'models/all_film.dart';
-import 'models/film.dart';
-import 'models/tv_show.dart';
+import 'models/tvshow.dart';
 
 //example get API
 // void main() {

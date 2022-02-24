@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 import '../models/detail.dart';
-import '../models/film.dart';
+import '../models/tvshow.dart';
 
 const String url = 'https://www.episodate.com/api/search?q=arrow&page=1';
 

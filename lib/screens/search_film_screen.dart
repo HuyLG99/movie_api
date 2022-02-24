@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
-import '../models/film.dart';
+import '../models/tvshow.dart';
 import '../network/request_data.dart';
 import 'detail_screen.dart';
 
